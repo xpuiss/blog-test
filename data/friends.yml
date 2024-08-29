@@ -1,0 +1,11 @@
+- nickname: "朋友A"
+  avatar: "assets/3.jpeg"
+  url: "https://friendA.com"
+  description: "这是朋友A的个人博客，内容丰富。"
+
+- nickname: "朋友B"
+  avatar: "assets/3.jpeg"
+  url: "https://friendB.com"
+  description: "朋友B的技术站点，主要分享编程经验。"
+
+# 继续添加更多朋友的信息...

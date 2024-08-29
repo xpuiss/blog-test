@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'xps的博客'
+
+theme = 'FixIt'
+defaultContentLanguage = 'zh-cn'
+
+[[menu.main]]
+  name = "关于我们"
+  url = "/about/"
+  weight = 2
+
+
+ignoreLogs = ['warning-dev-version']
+
