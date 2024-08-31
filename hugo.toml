@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'xps的博客'
+title = "Xps's Blog"
 
 theme = 'FixIt'
 defaultContentLanguage = 'zh-cn'
