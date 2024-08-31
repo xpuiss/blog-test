@@ -13,7 +13,14 @@
       <link>https://example.org/posts/583bc6c/</link>
       <pubDate>Thu, 29 Aug 2024 22:51:50 +0800</pubDate>
       <guid>https://example.org/posts/583bc6c/</guid>
-      <description>&lt;p&gt;sss&#xA;博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。&lt;/p&gt;</description>
+      <description>&lt;p&gt;博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。&#xA;quote:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/583bc6c/</link>
+      <pubDate>Thu, 29 Aug 2024 22:51:50 +0800</pubDate>
+      <guid>https://example.org/posts/583bc6c/</guid>
+      <description>&lt;p&gt;在此步骤中，你将发布你的网站，但不会 部署 它。&lt;/p&gt;&#xA;&lt;p&gt;当你发布站点时，Hugo 在项目根目录的 public 目录中创建整个静态站点。这包括 HTML 文件以及图像、CSS 文件和 JavaScript 文件等资源。&lt;/p&gt;&#xA;&lt;p&gt;当你发布网站时，你通常不希望包含 草稿、未来或过期的内容，命令很简单。&#xA;quote:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
