@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xps的博客</title>
+    <title>Xps&#39;s Blog</title>
     <link>https://example.org/</link>
-    <description>xps的博客</description>
+    <description>Xps&#39;s Blog</description>
     <generator>Hugo 0.133.1 &amp; FixIt v0.3.11</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Aug 2024 12:51:50 +0800</lastBuildDate>
