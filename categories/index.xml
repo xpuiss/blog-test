@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - 分类 - Xps&#39;s Blog</title>
-    <link>https://example.org/categories/</link>
-    <description>Xps&#39;s Blog</description>
+    <title>Categories - 分类 - XPS个人博客</title>
+    <link>/categories/</link>
+    <description>XPS个人博客</description>
     <generator>Hugo 0.133.1 &amp; FixIt v0.3.11</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
