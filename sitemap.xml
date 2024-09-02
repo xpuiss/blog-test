@@ -2,10 +2,17 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
+<<<<<<< HEAD
       <loc>/categories/blog/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
       <loc>/posts/test/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
       <loc>/categories/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
       <loc>/tags/c%E8%AF%AD%E8%A8%80%E4%BA%8C%E7%BA%A7/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
+=======
+      <loc>/posts/3790618/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
+      <loc>/tags/draft/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
+      <loc>/categories/draft/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
+>>>>>>> 3bd21cf973fd5236940525e8870ce27017b1abe8
       <loc>/tags/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
       <loc>/posts/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
       <loc>/</loc><lastmod>2024-09-02T21:16:07&#43;08:00</lastmod></url><url>
