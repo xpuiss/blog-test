@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - 分类 - 谢世松个人博客</title>
+    <title>Categories - 分类 - XPS个人博客</title>
     <link>/categories/</link>
-    <description>谢世松个人博客</description>
-    <generator>Hugo 0.131.0 &amp; FixIt v0.3.11</generator>
+    <description>XPS个人博客</description>
+    <generator>Hugo 0.134.0 &amp; FixIt v0.3.11</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Sep 2024 21:16:07 +0800</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
